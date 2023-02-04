@@ -1,0 +1,164 @@
+#title .container-fluid {
+  background-color: #ff4c68;
+  z-index: 0;
+  padding: 3% 15%;
+  
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: 700;
+  line-height: 1.5;}
+
+#title{
+  position: relative;
+  display: block;
+}
+#navi {
+  font-size: 2.5rem;
+
+  font-weight: bold;
+  font-family: 'Ubuntu', sans-serif;
+}
+#cta .container-fluid{
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  text-align: center;
+}
+#ccc{
+  color: white;
+  font-size: 3.5rem;
+  font-weight: 900;
+}
+.test {
+  background-color: #ef8172;
+  text-align: center;
+}
+#nav2 {
+  padding: 0 0 72px;
+}
+.nav-link {
+  padding: 8px;
+  font-size: 1.2rem;
+  font-family: 'Montserat-light',sans-serif;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.phone{
+  transform: rotate(25deg);
+  right: 30%;
+  width: 60%;
+  position: absolute;
+}
+.big-heading{
+  color: #ffff;
+  font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+.butt{
+  margin: 5% 3% 5% 0;
+}
+#features .container-fluid{
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+  background-color: white;
+  text-align: center;
+}
+.ico{
+  color: #ef8172;
+  margin: 1rem;
+}
+.ico:hover{
+  color: #ff4c68;
+}
+.tit{
+  margin: 1rem;
+}
+.titi{
+  color: #8f8f8f;
+}
+#s1{
+  padding: 5%;
+}
+#s2{
+  padding: 5%;
+}
+#s3{
+  padding: 5%;
+}
+#testimonials{
+}
+#press{
+  padding-bottom: 3%;
+}
+.prlg{
+  width: 15%;
+  
+}
+img{
+  vertical-align: middle;
+  border-style: none;
+}
+.testimonial-image {
+  border-radius: 100%;
+  margin: 20px;
+  width: 10%;
+}
+.testimonial-text{
+  color: #ffff;
+  line-height: 1.5;
+  font-size: 3rem;
+  text-align: center;
+}
+em{
+  color: #ffff;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+#card1{
+  background-color: #ef8172;
+  padding: 16px;
+  color: #ffff;
+}
+#card2{
+  background-color: #ef8172;
+  padding: 16px;
+  color: #ffff;
+}
+#card3{
+  color: #ffff;
+  background-color: #ef8172;
+  padding: 16px;
+ 
+}
+#c1{
+  padding: 0 0 0 0 ;
+}
+#c2{
+  padding: 0 0 0 0 ;
+}
+#c3{
+  padding: 0 0 0 0;
+}
+#ppppp{
+  margin-bottom: 50px;
+}
+#footer .container-fluid{
+  text-align: center;
+  padding: 7% 15%;
+}
+#s{
+  color: #8f8f8f;
+}
+.ico1{
+  margin: 5px;
+  color: #ff4c68;
+}
